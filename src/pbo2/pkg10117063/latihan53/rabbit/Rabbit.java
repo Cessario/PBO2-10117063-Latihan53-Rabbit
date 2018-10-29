@@ -5,9 +5,11 @@
  */
 package pbo2.pkg10117063.latihan53.rabbit;
 
-/**
- *
- * @author Deadpool
+/*
+Nama : Cessario Sheva L.P.A
+Kelas: IF-2
+Nim  : 10117063
+Deskripsi Program : Menampilkan Kelinci
  */
 public class Rabbit extends Animal {
     private String color;
